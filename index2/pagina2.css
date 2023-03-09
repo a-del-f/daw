@@ -1,0 +1,28 @@
+#titu{
+    float: top;
+    margin-left:35% ;
+}
+.link{
+    float:top ;
+    display:block;
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    gap: 20PX;
+    
+}
+.link a{
+    text-decoration: none;
+    background-color: aqua;
+}
+link :hover> p{
+    background-color: black;
+}
+#cabez{
+
+    background-color: brown;}
+    #cuerpo{
+        background-color: rgba(222, 184, 135, 0.322);
+        
+       
+    }
